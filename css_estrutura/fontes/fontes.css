@@ -1,0 +1,21 @@
+p{
+    font-size: 30;/* Tamanho da Fonte*/
+    font-weight: 900;/* Espessura da Fonte*/
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-transform: capitalize;/*Transforma o texto*/
+}
+
+h1{
+    font-size: 90;
+    font-size: 400;
+    font-family: 'Times New Roman', Times, serif;
+    text-transform: capitalize;
+}
+
+h2{
+    font-size: 80;
+    font-weight: 300;
+    font-family: 'Times New Roman', Times, serif;
+    text-transform: capitalize;
+}
+
